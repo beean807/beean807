@@ -8,14 +8,13 @@
 <body>
   <div class="card">
     <div class="profile-img">
-      <img src="https://github.com/beean807/beean807/raw/beean807-가온누리/profile.jpg" alt="프로필">
+      <img src="https://github.com/beean807/beean807/raw/beean807-gaonnuri/profile.jpg" alt="프로필">
     </div>
     <div class="info">
       <h1>주준하</h1>
       <p>울산대학교 ICT융합학부</p> 
       <p>M beean8807@mail.ulsan.ac.kr</p>
       <p>T 010-6799-6628</p>
-
       <p>A 울산 남구 대학로 93 19호관 502호</p>
     </div>
   </div>
