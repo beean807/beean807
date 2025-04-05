@@ -8,7 +8,7 @@
 <body>
   <div class="card">
     <div class="profile-img">
-      <img src="profile.jpg" alt="프로필">
+      <img src="https://github.com/beean807/beean807/raw/beean807-%EA%B0%80%EC%98%A8%EB%88%84%EB%A6%AC/profile.jpg" alt="프로필">
     </div>
     <div class="info">
       <h1>주준하</h1>
