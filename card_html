@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>명함만들기_2주차과제</title>
+</head>
+<body>
+  <div class="card">
+    <div class="profile-img">
+      <img src="profile.jpg" alt="프로필">
+    </div>
+    <div class="info">
+      <h1>주준하</h1>
+      <p>울산대학교 ICT융합학부</p> 
+      <p>M beean8807@mail.ulsan.ac.kr</p>
+      <p>T 010-6799-6628</p>
+
+      <p>A 울산 남구 대학로 93 19호관 502호</p>
+    </div>
+  </div>
+</body>
+</html>
