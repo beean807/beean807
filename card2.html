@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>명함만들기_2주차과제</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #ffe6af;
+    }
+    .card {
+      display: flex;
+      background: rgb(255, 255, 255);
+      padding: 30px;
+      border-radius: 8px;
+      max-width: 350px;
+    }
+    .profile-img {
+      width: 130px;
+      height: 130px;
+      border-radius: 50%;
+      overflow: hidden;
+      margin-right: 30px;
+      flex-shrink: 0;
+    }
+    .profile-img img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .info h1 {
+      margin: 0;
+      font-size: 20px;
+    }
+    .info p {
+      font-size: 11px;
+      color: #333;
+    }
+    .info p span {
+      color: rgb(68, 68, 68);
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="profile-img">
+      <img src="profile.jpg" alt="프로필">
+    </div>
+    <div class="info">
+      <h1>주준하</h1>
+      <p>울산대학교 ICT융합학부</p> 
+      <p><span>M</span>beean8807@mail.ulsan.ac.kr</p>
+      <p><span>T</span>010-6799-6628</p>
+      <p><span>A</span>울산 남구 대학로 93 19호관 502호</p>
+    </div>
+  </div>
+</body>
+</html>
+
